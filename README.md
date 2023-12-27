@@ -4,6 +4,11 @@
 # rPackageTutorial
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/Rochime/rPackageTutorial/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Rochime/rPackageTutorial/actions/workflows/R-CMD-check.yaml)
+[![Codecov test
+coverage](https://codecov.io/gh/Rochime/rPackageTutorial/branch/main/graph/badge.svg)](https://app.codecov.io/gh/Rochime/rPackageTutorial?branch=main)
+
 <!-- badges: end -->
 
 The goal of rPackageTutorial is to …
